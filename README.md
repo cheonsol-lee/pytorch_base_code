@@ -9,4 +9,4 @@
 - train.py : 사용자로부터 hyper-parameter를 받아, Model과 Trainer, Loader를 선언하고 학습
 - predict.py : 사용자로부터 Model과 input을 받아, 추론을 수행
 
-![image](https://user-images.githubusercontent.com/28869864/156995471-e63576fc-5c5b-4c5b-851a-5a2c8c1ec8f0.png)
+![image](https://user-images.githubusercontent.com/28869864/156995775-a732cff6-3f06-4264-83fe-d3fa417f9aee.png)
